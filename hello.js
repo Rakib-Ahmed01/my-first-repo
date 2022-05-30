@@ -1,7 +1,7 @@
 console.log("Assalamualaikum...");
 
-function getSquareRoot(num) {
+function getSquare(num) {
   return num * num;
 }
 
-console.log(getSquareRoot(5));
+console.log(getSquare(5));
